@@ -1,5 +1,6 @@
 @font-face {
-  font-family: 'REPL-SDTIN Default';
-  src: url(./REPL-SDTIN Default.woff) format('woff'),
-       url(./REPL-SDTIN Default.woff2) format('woff2');
+        font-family: "REPL-SDTIN Default";
+        src: url("./REPL-SDTIN Default.woff") format("woff"),
+          url("./REPL-SDTIN Default.woff2") format("woff2"),
+          url("./REPL-SDTIN Default.ttf") format("truetype");
 }
